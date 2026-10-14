@@ -19,7 +19,6 @@ data/
   KE2_calcium.csv                        SMILES + label for KE2 tier (968 compounds)
   AO_heart_failure.csv                   SMILES + label for AO tier (1190 compounds)
   external_validation_DICTrank_set.csv            FDA DICTrank external validation set (SMILES + label)
-  external_validation_heart_failure_matched_set.csv  Heart-failure endpoint-matched external set
   external_validation_DICTrank_predictions.csv   External validation predictions (tier probabilities)
 models/
   MIE_consensus_model.pkl                Tier-1 consensus model (MIE)
